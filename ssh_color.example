@@ -1,0 +1,4 @@
+# Syntax: hostname:color
+# Colors are specified in RGB, with ranges from 0 to 65535.
+
+one.host.com:{65535,0,0}
